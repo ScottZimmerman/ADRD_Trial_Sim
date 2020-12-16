@@ -1,0 +1,11 @@
+,Estimate,SE
+(Intercept),1.711818,0.003959
+base.age60,0.031596,0.003544
+sexMale,0.00271,0.00385
+raceBlack,0.119778,0.004417
+educHS,0.027173,0.004135
+educLessThanHS,0.046915,0.005064
+cses,-0.008943,0.001582
+diet_p,0.010618,0.001829
+diet_w,0.005958,0.001922
+gammaDispersion,0.008,

@@ -1,0 +1,4 @@
+,Estimate,SE,cohort
+(Intercept),0.29564,0.01361,0
+base.age60,-0.180141,0.009758,0
+raceBlack,-0.47482,0.028135,0

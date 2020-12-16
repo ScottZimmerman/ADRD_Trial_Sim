@@ -1,0 +1,9 @@
+,educ_ARIC,Estimate,SE
+(Intercept),HS,0.4847271,0.03229662
+base.age60,HS,0.1457248,0.04143561
+sexMale,HS,-0.5278806,0.04238161
+raceBlack,HS,-0.3316085,0.05553613
+(Intercept),LessThanHS,-0.6072077,0.0412409
+base.age60,LessThanHS,0.8304544,0.05042426
+sexMale,LessThanHS,-0.1951193,0.05144334
+raceBlack,LessThanHS,1.20E+00,0.05639333

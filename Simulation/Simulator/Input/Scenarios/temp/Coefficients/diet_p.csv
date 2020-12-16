@@ -1,0 +1,7 @@
+,Estimate,SE,cohort
+(Intercept),0.35494,0.01881,1
+base.age60,0.14839,0.01758,1
+sexMale,-0.27257,0.01812,1
+raceBlack,-0.06658,0.02204,1
+educHS,-0.21686,0.02041,1
+educLessThanHS,-0.31614,0.02477,1
